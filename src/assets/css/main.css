@@ -1,0 +1,17 @@
+* {
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 50px;
+  margin: 10px;
+  background: #090;
+}
+
+.gif-image {
+  width: 200px;
+  height: 200px;
+}
